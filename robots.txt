@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foghieyei.ericmark.us/sitemap.xml
